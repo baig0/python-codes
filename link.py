@@ -1,8 +1,7 @@
-#   Doubly Link Project File
-#   Structure of link list Null - Data - Data - Data - Null
-#   Push Insert at the end of the list, insert after any node, remove one by one, and traversing
+#   Doubly Linked List Project File
+#   Structure of linked list  ( Null - Node - Node - Node - Null )
+#   Push head, Insert at the end of the list, insert after any node, remove, and traversing
 #   Created By Baig b0y
-#   insert to the head
 #   Thanks to Mustajab xD
 
 
